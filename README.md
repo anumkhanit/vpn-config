@@ -67,8 +67,6 @@ Setting up a Virtual Private Network (VPN) in Microsoft Azure involves creating 
   B) Log into the RD Client App with the Public IP Address and the login you created.
 </p>
 
-![9ACA549A-EF72-4924-BB44-33110A2894A2](https://github.com/anumkhanit/vpn-config/assets/144633389/bcd20fd1-110b-4016-b9f2-00d7ccf336cc)
-
 <br />
 
 -----
