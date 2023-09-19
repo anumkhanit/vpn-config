@@ -67,6 +67,21 @@ Setting up a Virtual Private Network (VPN) in Microsoft Azure involves creating 
   B) Log into the RD Client App with the Public IP Address and the login you created.
 </p>
 
+<img width="715" alt="FC5AB73B-4245-4F1B-927D-FFA4379AB7FC" src="https://github.com/anumkhanit/vpn-config/assets/144633389/9c3850e5-460b-42c6-b954-79d6ad372c04">
+
+![60D11E2F-2D69-47B1-835F-CAA9CDD4D0A2](https://github.com/anumkhanit/vpn-config/assets/144633389/9d8f30ef-558f-4f86-8525-762b5f2103c3)
+
+<br />
+
+-----
+<h3>Step 3</h3>
+
+<p>
+  C) On your Virtual Network (Windows 10 Pro). Browse to https://whatismyipaddress.com/ and note a different IP address based on the chosen location you previously created on Microsoft Azure. Notice the difference!
+</p>
+
+<img width="750" alt="D6C23742-09CB-4461-BB63-19F81B989ED4" height="30%" width="30%" src="https://github.com/anumkhanit/vpn-config/assets/144633389/fdf414e8-416e-46f6-8ec4-172a6e4aa55d">
+
 <br />
 
 -----
