@@ -2,7 +2,7 @@
     <img src="https://www.imagar.com/wp-content/uploads/2018/06/azure.png" width="300"/>  
 </p>
 
-<h1>Configuring Virtual Private Network Deployed in Microsoft Azure</h1>
+<h1>Set Up VPN within Microsoft Azure VMs</h1>
 <p>
   Setting up a Virtual Private Network (VPN) in Microsoft Azure involves creating a Virtual Network, configuring a Gateway Subnet, and then creating a VPN gateway to establish a secure connection between your on-premises network and your Azure virtual network. Here are the steps to set up a VPN using Microsoft Azure.
 </p>
