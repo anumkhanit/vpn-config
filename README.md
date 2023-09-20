@@ -1,5 +1,7 @@
 <p align="center">
 
+![039365F1-2A46-4361-A58C-A7B41645AFBA_4_5005_c](https://github.com/anumkhanit/vpn-config/assets/144633389/f366ef03-84d3-498d-b487-652f8be8f216)
+
 </p>
 
 <h1>Set Up VPN within Microsoft Azure VMs with IP Addresses Change</h1>
@@ -15,7 +17,7 @@
 
 - Windows 10 Pro
 
-<h2>Step-by-Step Guide</h2>
+<h1>Step-by-Step Guide</h1>
 
 - Step 1
 - Step 2
@@ -89,7 +91,7 @@
 <h3>Step 6</h3>
 
 <p>
- A) Back to your VM, head to https://protonvpn.com, login, and download the Windows VPN and follow through installation.
+ A) Back to your VM, head to https://protonvpn.com, login, download the Windows VPN and follow through with the installation.
 </p>
 
 <img width="750" alt="26862F4E-93E9-42A2-8CD0-723CE288C096" height="30%" width="30%" src="https://github.com/anumkhanit/vpn-config/assets/144633389/27ce83d7-d43b-491e-a707-2d70c30608cc">
@@ -117,7 +119,7 @@
 -----
 
 <p>
-  D) Since you are connected (virutally) in network by choosing Japan. You notice the IP is different than the previous IP Address from Step 4. Without the virtual network from Microsoft Azure to connect virtually in Windows 10 Pro or beyond, it wouldn't make a difference unless if you own Windows or MacOs. You can still download Proton VPN (for free otherwise you have to pay either monthly or annually depend on your needs).
+  D) Since you are connected (virtually) in the network by choosing Japan. You notice the IP differs from the previous IP Address from Step 4. Without the virtual network from Microsoft Azure to connect virtually in Windows 10 Pro or beyond, it wouldn't make a difference unless you own Windows or macOS. You can still download Proton VPN (for free; otherwise, you must pay, depending on your needs).
 </p>
 
 <img width="956" alt="0DD5224D-2E62-4A52-A90F-7E6D6C834CD6" height="30%" width="30%" src="https://github.com/anumkhanit/vpn-config/assets/144633389/07b6c1b2-f461-459b-af91-43d35e341410">
@@ -132,4 +134,5 @@
 
 <br />
 
-<h2>Conclusion</h2>
+<h1>Conclusion</h1>
+And there you go! Remember to follow security best practices and consider the specific requirements of your Azure environment and ProtonVPN subscription when configuring this setup. 
