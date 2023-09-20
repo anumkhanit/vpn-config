@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://www.imagar.com/wp-content/uploads/2018/06/azure.png" width="300"/>  
+
+
+
 </p>
 
 <h1>Set Up VPN within Microsoft Azure VMs</h1>
