@@ -10,7 +10,7 @@
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines)
--	Remote Desktop
+-	MacBook Air
 -	ProtonVPN (free version)
 
 <h2>Operating System Used </h2>
