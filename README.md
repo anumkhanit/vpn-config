@@ -1,23 +1,19 @@
 <p align="center">
 
-
-
 </p>
 
-<h1>Set Up VPN within Microsoft Azure VMs</h1>
-<h2>Objective</h2>
-<p>
-  In this turorial, setting up a Virtual Private Network (VPN) in Microsoft Azure involves creating a Virtual Network, configuring a Gateway Subnet, and then creating a VPN gateway to establish a secure connection between your on-premises network and your Azure virtual network. Here are the steps to set up a VPN using Microsoft Azure.
-</p>
+<h1>Set Up VPN within Microsoft Azure VMs with IP Addresses Change</h1>
+<p>In this tutorial, we will install a Virtual Private Network (VPN) in Microsoft Azure. It involves configuring a Network Subnet and VPN gateway to establish a secure connection between your on-premises and Azure virtual networks. There are some notes and highlights provided of some or all explanations.</p>
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure
-- RD Client App
+- Microsoft Azure (Virtual Machines)
+-	Remote Desktop
+-	ProtonVPN (free version)
 
-<h2>Operating Systems Used</h2>
+<h2>Operating System Used </h2>
 
-- Windows 10 Pro (Virtual Machine)
+- Windows 10 Pro
 
 <h2>Step-by-Step Guide</h2>
 
@@ -28,7 +24,7 @@
 - Step 5
 - Step 6
 
-<h2>Deployment and Configuration Steps</h2>
+-----
 
 <h3>Step 1</h3>
 <p>
@@ -129,13 +125,11 @@
 -----
 
 <p>
-  E) Finally, when you pull up Google while being connected virtually with Windows 10 Pro and Proton VPN. You are 'connected' to Japan.
+  E) Finally, when you pull up Google while connected virtually with Windows 10 Pro and Proton VPN. You are 'connected' to Japan.
 </p>
 
 <img width="956" alt="0E4576D6-E4ED-49C9-B1C7-87889BBBB01F" height="30%" width="30%" src="https://github.com/anumkhanit/vpn-config/assets/144633389/541c9965-3c5d-4a7d-8a85-9b4708a2d8b6">
 
 <br />
 
------
 <h2>Conclusion</h2>
-Remember to follow security best practices and consider the specific requirements of your Azure environment and ProtonVPN subscription when configuring this setup. It's also important to ensure that you comply with both Azure and ProtonVPN's terms of service and security guidelines.
