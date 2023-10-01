@@ -24,21 +24,17 @@
 
 - Visit https://whatismyipaddress.com/ and record your IP address in a text file for reference.
 
-- Create a Resource Group.
+- Create a Resource Group from Microsoft Azure.
 
-<img width="700" alt="78998FBB-276B-4C69-B47A-EAD7D989FD6C" height="30%" width="30%" src="https://github.com/anumkhanit/vpn-config/assets/144633389/f64f81ea-b908-42ff-ae10-9d6eebdd46a3">
-
-- Deploy a Windows 10 Virtual Machine in a different geographic location, preferably in a different country.
-
-<img width="700" alt="B1F2DD03-94B2-444F-8C66-CBEBE7279DE8" height="30%" width="30%" src="https://github.com/anumkhanit/vpn-config/assets/144633389/3ecd2b22-aeb6-4299-b496-a8cdac8ee93f">
+- Deploy a Windows 10 Virtual Machine in a different geographic location, preferably in a different country by your likings.
   
-- Access the VM using RD Client after creating the VM Machine (with the login you created) and copy the Public IP Address above on the right.
+- Access the VM using RD Client after creating the VM Machine (with the login you created) and copy the Public IP Address after you've created the VM.
 
 <img width="700" alt="FC5AB73B-4245-4F1B-927D-FFA4379AB7FC" src="https://github.com/anumkhanit/vpn-config/assets/144633389/9c3850e5-460b-42c6-b954-79d6ad372c04">
 
 ![60D11E2F-2D69-47B1-835F-CAA9CDD4D0A2](https://github.com/anumkhanit/vpn-config/assets/144633389/9d8f30ef-558f-4f86-8525-762b5f2103c3)
   
-- Visit https://whatismyipaddress.com/ again from the VM and record the new IP address in the text file.
+- Visit https://whatismyipaddress.com/ again from the VM and notice the difference of the IP Address (based on the country you chose when you've created the VM from Azure).
 
 <img width="700" alt="D6C23742-09CB-4461-BB63-19F81B989ED4" height="30%" width="30%" src="https://github.com/anumkhanit/vpn-config/assets/144633389/fdf414e8-416e-46f6-8ec4-172a6e4aa55d">
 
@@ -49,7 +45,7 @@
 <h1>Part 2: Setting Up ProtonVPN and Testing VPN Connection</h1>
 
 - On your local computer, sign up for the free version of ProtonVPN at https://account.protonvpn.com/signup?plan=free&language=en.
-Within your VM, download the Proton VPN client.
+Within your VM, download the Proton VPN client. If Windows, download the Windows version. If MacOS, download that version.
 
 <img width="700" alt="2599D3A1-EA52-435C-B781-20CDD91E13A4" height="30%" width="30%" src="https://github.com/anumkhanit/vpn-config/assets/144633389/fd750503-8a15-4e2c-80df-4c2758514bf1">
 
