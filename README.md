@@ -5,7 +5,7 @@
 </p>
 
 <h1>Exploring Virtual Machines and VPN</h1>
-<p>In this tutorial, we will install a Virtual Private Network (VPN) in Microsoft Azure. It involves configuring a Network Subnet and VPN gateway to establish a secure connection between your on-premises and Azure virtual networks. There are some notes and highlights provided of some or all explanations.</p>
+<p>In this tutorial, we will install a Virtual Private Network (VPN) in Microsoft Azure. It involves configuring a Network Subnet and VPN gateway to establish a secure connection between your on-premises and Azure virtual networks.</p>
 
 <h2>Environments and Technologies Used</h2>
 
